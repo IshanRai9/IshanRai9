@@ -1,6 +1,0 @@
-- 👋 Hi, I’m Ishan Rai (@IshanRai9)
-- 👀 I’m interested in learning more about programming and coding in general;)
-- 🌱 I’m currently trying to learn Game Developement! 
-- 📫 How to reach me ishanrai1109@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started basic coding when I was 14 with Java
