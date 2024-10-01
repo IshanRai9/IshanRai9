@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ishan Rai 
 - 💡 I’m interested in a lot of things
-- 👀 I’m currently learning Machine Learning and Game Dev
+- 👀 I’m currently learning various things
 - 📫 How to reach me ishanrai1109@gmail.com
 - ⚡ Fun fact: I can't think of a fun fact 😅
