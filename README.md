@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! Ishan here 👋 </h1>
-<h3 align="center">Nothing to see much except few projects or codes that I like to work around with :)</h3>
+<h3 align="center">I am currently a BTech. Undergrad studying Computer Engineering hoping to develop my skills in the field of AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanrai9&label=Profile%20views&color=0e75b6&style=flat" alt="ishanrai9" /> </p>
 
