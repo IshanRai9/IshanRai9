@@ -2,7 +2,7 @@
 <h3 align="center">BTech. CompEng || AI/ML Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshanRai9&label=Profile%20views&color=0e75b6&style=flat" alt="IshanRai9" /> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=IshanRai9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IshanRai9" alt="IshanRai9" /></a> </p>
 
 - 🔭 I’m currently working on **my portfolio👀**
