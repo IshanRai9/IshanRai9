@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my portfolio👀**
 
-- 🌱 I’m currently learning **Model Context Protocol**
+- 🌱 I’m currently learning **Agentic AI Automation and Model Context Protocol**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IshanRai9?tab=repositories](https://github.com/IshanRai9?tab=repositories)
 
