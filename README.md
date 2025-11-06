@@ -5,17 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanrai9" alt="ishanrai9" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio👀**
+- All of my projects are available at [https://github.com/IshanRai9?tab=repositories](https://github.com/IshanRai9?tab=repositories)
+- I might write articles on [https://dev.to/ishanrai9](https://dev.to/ishanrai9)
+- Reach me **ishanrai1109@gmail.com**
 
-- 🌱 I’m currently learning **Agentic AI Automation and Model Context Protocol**
-
-- 👨‍💻 All of my projects are available at [https://github.com/IshanRai9?tab=repositories](https://github.com/IshanRai9?tab=repositories)
-
-- 📝 I regularly write articles on [https://dev.to/ishanrai9](https://dev.to/ishanrai9)
-
-- 📫 How to reach me **ishanrai1109@gmail.com**
-
-- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
