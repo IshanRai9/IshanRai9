@@ -13,12 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ishanrai9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ishanrai9" height="30" width="40" /></a>
-<a href="https://twitter.com/iamishanrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamishanrai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishan-s-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-s-rai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29972143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29972143" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ishan09__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ishan09__/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ishanrai9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ishanrai9/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ishan05tl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ishan05tl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
