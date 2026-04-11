@@ -1,3 +1,4 @@
+<h1 align="center">Hello, Ishan Rai here</h1>
 # 💫 About Me:
 I am a Final Year BTech Computer Engineering student. I like finding unique solutions to problems I encounter with my knowledge of software developement ranging from simple applications to complex AI systems.<br>All of my projects are available at https://github.com/IshanRai9?tab=repositories<br>Reach me ishanrai1109@gmail.com
 
@@ -14,5 +15,9 @@ I am a Final Year BTech Computer Engineering student. I like finding unique solu
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IshanRai9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanrai9&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="ishanrai9" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanrai9&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=en" alt="ishanrai9" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanrai9&theme=dark" alt="ishanrai9" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
