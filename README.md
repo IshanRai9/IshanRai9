@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 I am a Final Year BTech Computer Engineering student. I like finding unique solutions to problems I encounter with my knowledge of software developement ranging from simple applications to complex AI systems.<br>All of my projects are available at https://github.com/IshanRai9?tab=repositories<br>Reach me ishanrai1109@gmail.com
 
 
