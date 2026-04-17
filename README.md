@@ -1,8 +1,7 @@
 <h1 align="center">Hello, Ishan Rai here</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanrai9&label=Profile%20views&color=0e75b6&style=flat" alt="ishanrai9" /> </p>
 
-# 💫 About Me:
-I am a Final Year BTech Computer Engineering student. I like finding unique solutions to problems I encounter with my knowledge of software developement ranging from simple applications to complex AI systems.<br>All of my projects are available at https://github.com/IshanRai9?tab=repositories<br>Reach me ishanrai1109@gmail.com
+<br>All of my projects are available at https://github.com/IshanRai9?tab=repositories<br>Reach me ishanrai1109@gmail.com
 
 
 ## 🌐 Socials:
